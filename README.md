@@ -8,7 +8,7 @@ to improve my programming skills.
 
 ## About Me
 - 🎓 MCA
-- 🌱 Currently learning HTML, CSS, JavaScript and React
+- 🌱 Currently learning HTML, CSS, C#, ASP .NET and Git & GitHub
 - 💻 Building my personal portfolio
 - 🎯 Goal: Become a professional developer
 
